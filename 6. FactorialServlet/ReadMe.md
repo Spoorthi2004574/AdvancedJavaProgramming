@@ -1,3 +1,2 @@
 OUTPUTS::
-
-https://github.com/Spoorthi2004574/AdvancedJavaProgramming/blob/71d0b7df1df336f2b518139ed9650258df3cabb0/6.Cookieservlet/output/output1.png && https://github.com/Spoorthi2004574/AdvancedJavaProgramming/blob/71d0b7df1df336f2b518139ed9650258df3cabb0/6.Cookieservlet/output/output2.png
+https://github.com/Spoorthi2004574/AdvancedJavaProgramming/blob/3b794006fbe7a9d22a358f0a69310a8d0c601095/6.%20FactorialServlet/Outputs/output1.jpg && https://github.com/Spoorthi2004574/AdvancedJavaProgramming/blob/3b794006fbe7a9d22a358f0a69310a8d0c601095/6.%20FactorialServlet/Outputs/output2.jpg
